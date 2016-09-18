@@ -1,0 +1,8 @@
+Implemention of Scatter Gather List support for open source NVMe Linux device driver. It contains patch that will work for linux kernel 3.14.
+
+Patch submission:
+Version 1:
+https://lkml.org/lkml/2013/12/11/387
+
+Version 2:
+https://lkml.org/lkml/2013/12/17/171
